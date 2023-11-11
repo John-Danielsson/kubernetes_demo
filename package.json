@@ -1,0 +1,24 @@
+{
+  "name": "kubernetes_demo",
+  "version": "1.0.0",
+  "description": "Demonstration of my proficiency in Kubernetes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Danielsson/kubernetes_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Danielsson/kubernetes_demo/issues"
+  },
+  "homepage": "https://github.com/John-Danielsson/kubernetes_demo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
